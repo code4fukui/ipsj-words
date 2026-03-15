@@ -1,5 +1,7 @@
 # ipsj-words
 
+> 日本語のREADMEはこちらです: [README.ja.md](README.ja.md)
+
 A collection of Japanese IT and computer science terms and definitions from the Information Processing Society of Japan (IPSJ).
 
 ## Demo
